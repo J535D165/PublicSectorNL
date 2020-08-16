@@ -4,8 +4,6 @@ Open source gains popularity in the public sector of the Netherlands. This is
 a list of profiles on open source platforms in use by organizations in the
 Dutch public sector.
 
-[![logo_PublicSectorNL.png](docs/img/logo_PublicSectorNL.png)](/)
-
 - [Open source & Dutch public sector](#open-source---dutch-public-sector)
   * [Organisations](#organisations)
     + [Ministries](#ministries)
@@ -21,6 +19,11 @@ Dutch public sector.
     + [University of Applied Sciences](#university-of-applied-sciences)
   * [Contributing](#contributing)
   * [About](#about)
+
+
+---
+
+![logo_PublicSectorNL.png](docs/img/logo_PublicSectorNL.png)
 
 
 ## Organisations

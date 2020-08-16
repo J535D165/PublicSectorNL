@@ -1,0 +1,19 @@
+site_name: Open source & public sector NL
+site_url: https://github.com/J535D165/PublicSectorNL
+site_description: A list of Github profiles of organizations in the public sector.
+site_author: Jonathan de Bruin, Wouter van Bijsterveld, Paul van Gent
+repo_name: J535D165/PublicSectorNL
+repo_url: https://github.com/J535D165/PublicSectorNL
+theme:
+  name: material
+extra:
+  social:
+    - type: github
+      link: https://github.com/J535D165
+extra_css:
+    - css/extra.css
+nav:
+  - "Open source & public sector NL": "index.md"
+  - 'Add organization': 'https://github.com/J535D165/PublicSectorNL/edit/master/README.md'
+  - 'GitHub': 'https://github.com/J535D165/PublicSectorNL/'
+

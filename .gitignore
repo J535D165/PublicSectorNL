@@ -1,0 +1,10 @@
+.DS_Store
+
+*.py[co]
+
+docs/index.md
+docs/CONTRIBUTING.md
+site/
+
+# PyCharm IDE
+.idea

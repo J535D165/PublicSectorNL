@@ -150,7 +150,6 @@ de Bruin](https://github.com/J535D165), [Wouter van
 Bijsterveld](https://github.com/wbijster), and [Paul van
 Gent](https://github.com/paulvangentcom).
 
-Inspired and technically based on [awesome-python](https://github.com/vinta
-/awesome-python) (CC-BY license).
+Inspired and technically based on [awesome-python](https://github.com/vinta/awesome-python) (CC-BY license).
 
 

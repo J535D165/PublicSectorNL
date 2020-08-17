@@ -72,10 +72,12 @@ Dutch public sector.
 * Rijkswaterstaat
     * [Rijkswaterstaat 1](https://github.com/Rijkswaterstaat)
     * [Rijkswaterstaat 2](https://github.com/RWS-NL)
+* [Dutch address data by the land registry (BAG by the Kadaster) ](https://github.com/lvbag)
 
 ### Data and statistics
 
 * [Dutch National Data portal (Data.overheid.nl)](https://github.com/dataoverheid)
+* [Central statistical office (CBS) ](https://github.com/statistiekcbs)
 
 ### Research Institutes
 

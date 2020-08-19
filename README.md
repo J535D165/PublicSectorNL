@@ -151,6 +151,7 @@ Dutch public sector.
     * [HU Institute for ICT](https://github.com/HUInstituteForICT)
 * Hogeschool Zeeland
     * [HBO - ICT](https://github.com/HZ-HBO-ICT)
+* [Hogeschool der Kunsten Den Haag](https://github.com/kabk)
 
 ## Contributing
 

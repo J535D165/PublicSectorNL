@@ -96,7 +96,7 @@ Dutch public sector.
 
 ### Universities and University Medical Centers
 
-* TU Delft [(GitLab, self-hosted)](https://gitlab.tudelft.nl/)
+* TU Delft [(GitLab, self-hosted)](https://gitlab.tudelft.nl/explore)
     * [3D geoinformation](https://github.com/tudelft3d)
     * [Micro Air Vehicle Laboratory](https://github.com/tudelft)
     * [QuTech](https://github.com/QuTech-Delft)
@@ -120,6 +120,9 @@ Dutch public sector.
 * [University of Twente](https://github.com/utwente)
     * [Formal Methods and Tools](https://github.com/utwente-fmt)
     * [RoboCup team of the University of Twente](https://github.com/RoboTeamTwente)
+* Wageningen University & Research [(GitLab, self-hosted)](https://git.wageningenur.nl/explore)
+    * [Geo-scripting](https://github.com/GeoScripting-WUR)
+    * [Production Ecology & Resource Conservation](https://github.com/wageningen)
 
 ### University of Applied Sciences
 

@@ -96,6 +96,11 @@ Dutch public sector.
 
 ### Universities and University Medical Centers
 
+* Erasmus Universiteit Rotterdam
+    * [Erasmus University Library](https://github.com/erasmus-university-library)
+    * [Rotterdam School of Management](https://github.com/eur-rsm)
+* Erasmus Medical Center
+    * [Bioinformatics](https://github.com/ErasmusMC-Bioinformatics)
 * TU Delft [(GitLab, self-hosted)](https://gitlab.tudelft.nl/explore)
     * [3D geoinformation](https://github.com/tudelft3d)
     * [Micro Air Vehicle Laboratory](https://github.com/tudelft)

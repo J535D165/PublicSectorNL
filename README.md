@@ -132,6 +132,8 @@ Dutch public sector.
 
 ### University of Applied Sciences
 
+* Haagse Hogeschool
+    * [Technische Natuurkunde](https://github.com/HHS-TN)
 * [Hogeschool Utrecht](https://github.com/uashogeschoolutrecht)
     * [HU Institute for ICT](https://github.com/HUInstituteForICT)
 * Hogeschool Zeeland

@@ -134,6 +134,10 @@ Dutch public sector.
 
 * Haagse Hogeschool
     * [Technische Natuurkunde](https://github.com/HHS-TN)
+* [Hogeschool Rotterdam](https://github.com/hogeschoolrotterdam)
+    * [Beheer, Infrastructuur & Telecom](https://github.com/hr-bit)
+    * [Creative Media and Game Technologies](https://github.com/HR-CMGT)
+    * [Hogeschool Rotterdam](https://github.com/hogeschool)
 * [Hogeschool Utrecht](https://github.com/uashogeschoolutrecht)
     * [HU Institute for ICT](https://github.com/HUInstituteForICT)
 * Hogeschool Zeeland

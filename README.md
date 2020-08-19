@@ -101,6 +101,7 @@ Dutch public sector.
     * [Rotterdam School of Management](https://github.com/eur-rsm)
 * Erasmus Medical Center
     * [Bioinformatics](https://github.com/ErasmusMC-Bioinformatics)
+    * [Medical Informatics](https://github.com/mi-erasmusmc)
 * TU Delft [(GitLab, self-hosted)](https://gitlab.tudelft.nl/explore)
     * [3D geoinformation](https://github.com/tudelft3d)
     * [Micro Air Vehicle Laboratory](https://github.com/tudelft)

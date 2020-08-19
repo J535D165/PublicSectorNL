@@ -127,6 +127,11 @@ Dutch public sector.
     * [Radboud Universiteit (Open Science?)](https://github.com/Radboud-University)
     * [Faculty of Science (GitLab, self-hosted)](https://gitlab.science.ru.nl/explore)
     * [Faculty of Social Sciences (GitLab self-hosted)](https://gitlab.socsci.ru.nl/explore)
+* University of Amsterdam
+    * [Computer Vision](https://github.com/uvavision)
+    * [Deep Learning](https://github.com/uvadlc)
+    * [Faculteit der Natuurwetenschappen, Wiskunde en Informatica](https://gitlab-fnwi.uva.nl/explore)
+    * [Minor programmeren](https://github.com/uva)
 * [University of Twente](https://github.com/utwente)
     * [Formal Methods and Tools](https://github.com/utwente-fmt)
     * [RoboCup team of the University of Twente](https://github.com/RoboTeamTwente)

@@ -160,12 +160,15 @@ activities. An example is the [Dutch COVID-19 Notification App
 CoronaMelder](https://github.com/minvws/nl-covid19-notification-app-website)
 by the [Ministry of Health, Welfare and Sport](https://github.com/minvws).
 
-This projects aims to make the accounts and projects of the Dutch public
-sector  easier findable. The project is initiated and maintained by [Jonathan
+The PublicSectorNL project aims to make the accounts and projects of the Dutch public
+sector easily findable. Findability is the key to reuse and collaboration. 
+
+The project is initiated and maintained by [Jonathan
 de Bruin](https://github.com/J535D165), [Wouter van
 Bijsterveld](https://github.com/wbijster), and [Paul van
-Gent](https://github.com/paulvangentcom).
+Gent](https://github.com/paulvangentcom). The list of organizations
+is published under a CC-BY 4.0 license. 
 
-Inspired and technically based on [awesome-python](https://github.com/vinta/awesome-python) (CC-BY license).
+Inspired and technically based on [awesome-python](https://github.com/vinta/awesome-python) (CC-BY 4.0 license).
 
 

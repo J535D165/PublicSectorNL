@@ -123,6 +123,10 @@ Dutch public sector.
 * LUMC
     * [LUMC](https://github.com/LUMC)
     * [LUMC GitLab](https://git.lumc.nl/explore) (GitLab, self-hosted)
+* [Radboud Universiteit](https://github.com/radbouduniversity)
+    * [Radboud Universiteit (Open Science?)](https://github.com/Radboud-University)
+    * [Faculty of Science (GitLab, self-hosted)](https://gitlab.science.ru.nl/explore)
+    * [Faculty of Social Sciences (GitLab self-hosted)](https://gitlab.socsci.ru.nl/explore)
 * [University of Twente](https://github.com/utwente)
     * [Formal Methods and Tools](https://github.com/utwente-fmt)
     * [RoboCup team of the University of Twente](https://github.com/RoboTeamTwente)

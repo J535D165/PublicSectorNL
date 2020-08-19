@@ -132,6 +132,8 @@ Dutch public sector.
 
 ### University of Applied Sciences
 
+* [Hogeschool Utrecht](https://github.com/uashogeschoolutrecht)
+    * [HU Institute for ICT](https://github.com/HUInstituteForICT)
 * Hogeschool Zeeland
     * [HBO - ICT](https://github.com/HZ-HBO-ICT)
 

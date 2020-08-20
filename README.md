@@ -106,6 +106,9 @@ Dutch public sector.
     * [3D geoinformation](https://github.com/tudelft3d)
     * [Micro Air Vehicle Laboratory](https://github.com/tudelft)
     * [QuTech](https://github.com/QuTech-Delft)
+* TU Eindhoven [(GitLab, self-hosted)](https://gitlab.tue.nl/explore)
+    * [Robotics Group - RoboCup team](https://github.com/tue-robotics)
+    * [Model Driven Software Engineering](https://github.com/tue-mdse)
 * Groningen University
     * [Center for Information Technology & Educational Support and Innovation](https://github.com/rijksuniversiteit-groningen)
     * [Geodienst](https://github.com/geodienst)
@@ -127,6 +130,7 @@ Dutch public sector.
     * [Radboud Universiteit (Open Science?)](https://github.com/Radboud-University)
     * [Faculty of Science (GitLab, self-hosted)](https://gitlab.science.ru.nl/explore)
     * [Faculty of Social Sciences (GitLab self-hosted)](https://gitlab.socsci.ru.nl/explore)
+    * [NLP Research group at Centre for Language Studies](https://github.com/LanguageMachines)
 * University of Amsterdam
     * [Computer Vision](https://github.com/uvavision)
     * [Deep Learning](https://github.com/uvadlc)

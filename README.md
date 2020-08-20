@@ -218,6 +218,6 @@ Bijsterveld](https://github.com/wbijster), and [Paul van
 Gent](https://github.com/paulvangentcom). The list of organizations
 is published under a CC-BY 4.0 license. 
 
-Inspired and technically based on [awesome-python](https://github.com/vinta/awesome-python) (CC-BY 4.0 license).
+Inspired and technically based on [awesome-python](https://github.com/vinta/awesome-python) ([CC-BY 4.0 license](https://github.com/vinta/awesome-python/blob/master/LICENSE)).
 
 

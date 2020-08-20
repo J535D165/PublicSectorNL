@@ -15,7 +15,8 @@ Dutch public sector.
     + [Data and statistics](#data-and-statistics)
     + [Research Institutes](#research-institutes)
     + [Libraries](#libraries)
-    + [Universities and University Medical Centers](#universities-and-university-medical-centers)
+    + [Universities](#universitie)
+    + [University Medical Centers](#university-medical-centers)
     + [University of Applied Sciences](#university-of-applied-sciences)
   * [Contributing](#contributing)
   * [About](#about)
@@ -94,14 +95,11 @@ Dutch public sector.
 
 * [National Library of the Netherlands (Koninklijke bibliotheek)](https://github.com/KBNLresearch)
 
-### Universities and University Medical Centers
+### Universities
 
 * Erasmus Universiteit Rotterdam
     * [Erasmus University Library](https://github.com/erasmus-university-library)
     * [Rotterdam School of Management](https://github.com/eur-rsm)
-* Erasmus Medical Center
-    * [Bioinformatics](https://github.com/ErasmusMC-Bioinformatics)
-    * [Medical Informatics](https://github.com/mi-erasmusmc)
 * TU Delft [(GitLab, self-hosted)](https://gitlab.tudelft.nl/explore)
     * [3D geoinformation](https://github.com/tudelft3d)
     * [Micro Air Vehicle Laboratory](https://github.com/tudelft)
@@ -123,9 +121,6 @@ Dutch public sector.
     * [Leiden University Library](https://github.com/LeidenUniversityLibrary)
     * [Leiden University Centre for Innovation](https://github.com/LU-C4i)
     * [Leiden Institute of Advanced Computer Science](https://git.liacs.nl/) (GitLab, self-hosted)
-* LUMC
-    * [LUMC](https://github.com/LUMC)
-    * [LUMC GitLab](https://git.lumc.nl/explore) (GitLab, self-hosted)
 * [Radboud Universiteit](https://github.com/radbouduniversity)
     * [Radboud Universiteit (Open Science?)](https://github.com/Radboud-University)
     * [Faculty of Science (GitLab, self-hosted)](https://gitlab.science.ru.nl/explore)
@@ -143,21 +138,33 @@ Dutch public sector.
     * [Research IT](https://github.com/UtrechtUniversity)
     * [Webdiensten](https://github.com/UniversiteitUtrecht)
     * [Science Faculty (GitLab self-hosted)](https://git.science.uu.nl/explore)
-* UMC Utrecht
-    * [Medical microbiology department](https://gitlab.com/mmb-umcu)
-    * [Genetics](https://github.com/UMCUGenetics)
-    * [UMCU RIBS](https://github.com/UMCU-RIBS)
 * Wageningen University & Research [(GitLab, self-hosted)](https://git.wageningenur.nl/explore)
     * [Geo-scripting](https://github.com/GeoScripting-WUR)
-    * [Production Ecology & Resource Conservation](https://github.com/wageningen)
-* [Radboud UMC](https://github.com/Radboudumc)
-* UMC Groningen
-    * [Medical Imaging Center](https://github.com/mic-umcg)
+    * [Production Ecology & Resource Conservation](https://github.com/wageningen
 * Vrij Universiteit Amsterdam
     * [University Library 1](https://github.com/VUAmsterdam-UniversityLibrary)
     * [University Library 2](https://github.com/ubvu)
     * [Software and Sustainability Group](https://github.com/S2-group)
     * [Instituut voor Milieuvraagstukken](https://github.com/VU-IVM)
+
+
+### University Medical Centers
+
+University medical centers are hospitals with a close relationship between the medical faculty and the hospital.
+
+* Erasmus Medical Center
+    * [Bioinformatics](https://github.com/ErasmusMC-Bioinformatics)
+    * [Medical Informatics](https://github.com/mi-erasmusmc)
+* LUMC
+    * [LUMC](https://github.com/LUMC)
+    * [LUMC GitLab](https://git.lumc.nl/explore) (GitLab, self-hosted)
+* UMC Utrecht
+    * [Medical microbiology department](https://gitlab.com/mmb-umcu)
+    * [Genetics](https://github.com/UMCUGenetics)
+    * [UMCU RIBS](https://github.com/UMCU-RIBS)
+* [Radboud UMC](https://github.com/Radboudumc)
+* UMC Groningen
+    * [Medical Imaging Center](https://github.com/mic-umcg)
 * VUMC
     * [IT](https://github.com/VUMC-IT)
     * [Tumor Genome Analysis Core](https://github.com/tgac-vumc)

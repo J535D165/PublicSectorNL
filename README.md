@@ -150,11 +150,20 @@ Dutch public sector.
 * Wageningen University & Research [(GitLab, self-hosted)](https://git.wageningenur.nl/explore)
     * [Geo-scripting](https://github.com/GeoScripting-WUR)
     * [Production Ecology & Resource Conservation](https://github.com/wageningen)
+* [Radboud UMC](https://github.com/Radboudumc)
+* UMC Groningen
+    * [Medical Imaging Center](https://github.com/mic-umcg)
 * Vrij Universiteit Amsterdam
     * [University Library 1](https://github.com/VUAmsterdam-UniversityLibrary)
     * [University Library 2](https://github.com/ubvu)
     * [Software and Sustainability Group](https://github.com/S2-group)
     * [Instituut voor Milieuvraagstukken](https://github.com/VU-IVM)
+* VUMC
+    * [IT](https://github.com/VUMC-IT)
+    * [Tumor Genome Analysis Core](https://github.com/tgac-vumc)
+    * [Vanderbilt Institute for Clinical and Translational Research](https://github.com/vanderbilt)
+    * [Clinical Genetics/Pathology](https://github.com/VUmcCGP)
+* [AMC](https://github.com/AmsterdamUMC)
 
 ### University of Applied Sciences
 

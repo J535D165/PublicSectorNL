@@ -142,6 +142,11 @@ Dutch public sector.
 * Wageningen University & Research [(GitLab, self-hosted)](https://git.wageningenur.nl/explore)
     * [Geo-scripting](https://github.com/GeoScripting-WUR)
     * [Production Ecology & Resource Conservation](https://github.com/wageningen)
+* Vrij Universiteit Amsterdam
+    * [University Library 1](https://github.com/VUAmsterdam-UniversityLibrary)
+    * [University Library 2](https://github.com/ubvu)
+    * [Software and Sustainability Group](https://github.com/S2-group)
+    * [Instituut voor Milieuvraagstukken](https://github.com/VU-IVM)
 
 ### University of Applied Sciences
 

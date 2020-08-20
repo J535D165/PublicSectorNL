@@ -161,7 +161,7 @@ University medical centers are hospitals with a close relationship between the m
 * UMC Utrecht
     * [Medical microbiology department](https://gitlab.com/mmb-umcu)
     * [Genetics](https://github.com/UMCUGenetics)
-    * [UMCU RIBS](https://github.com/UMCU-RIBS)
+    * [Registration and Imaging of Brain Systems](https://github.com/UMCU-RIBS)
 * [Radboud UMC](https://github.com/Radboudumc)
 * UMC Groningen
     * [Medical Imaging Center](https://github.com/mic-umcg)

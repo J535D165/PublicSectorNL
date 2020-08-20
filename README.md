@@ -143,6 +143,10 @@ Dutch public sector.
     * [Research IT](https://github.com/UtrechtUniversity)
     * [Webdiensten](https://github.com/UniversiteitUtrecht)
     * [Science Faculty (GitLab self-hosted)](https://git.science.uu.nl/explore)
+* UMC Utrecht
+    * [Medical microbiology department](https://gitlab.com/mmb-umcu)
+    * [Genetics](https://github.com/UMCUGenetics)
+    * [UMCU RIBS](https://github.com/UMCU-RIBS)
 * Wageningen University & Research [(GitLab, self-hosted)](https://git.wageningenur.nl/explore)
     * [Geo-scripting](https://github.com/GeoScripting-WUR)
     * [Production Ecology & Resource Conservation](https://github.com/wageningen)

@@ -209,7 +209,8 @@ activities. An example is the [Dutch COVID-19 Notification App
 CoronaMelder](https://github.com/minvws/nl-covid19-notification-app-website)
 by the [Ministry of Health, Welfare and Sport](https://github.com/minvws).
 
-The PublicSectorNL project aims to make the accounts and projects of the Dutch public
+The [PublicSectorNL](https://github.com/J535D165/PublicSectorNL) project aims 
+to make the accounts and projects of the Dutch public
 sector easily findable. Findability is the key to reuse and collaboration. 
 
 The project is initiated and maintained by [Jonathan

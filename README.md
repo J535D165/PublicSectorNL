@@ -139,6 +139,10 @@ Dutch public sector.
 * [University of Twente](https://github.com/utwente)
     * [Formal Methods and Tools](https://github.com/utwente-fmt)
     * [RoboCup team of the University of Twente](https://github.com/RoboTeamTwente)
+* Universiteit Utrecht
+    * [Research IT](https://github.com/UtrechtUniversity)
+    * [Webdiensten](https://github.com/UniversiteitUtrecht)
+    * [Science Faculty (GitLab self-hosted)](https://git.science.uu.nl/explore)
 * Wageningen University & Research [(GitLab, self-hosted)](https://git.wageningenur.nl/explore)
     * [Geo-scripting](https://github.com/GeoScripting-WUR)
     * [Production Ecology & Resource Conservation](https://github.com/wageningen)

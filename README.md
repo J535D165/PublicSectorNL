@@ -81,14 +81,14 @@ Dutch public sector.
 * Rijkswaterstaat
     * [Rijkswaterstaat 1](https://github.com/Rijkswaterstaat)
     * [Rijkswaterstaat 2](https://github.com/RWS-NL)
-* [Dutch address data by the land registry (BAG by the Kadaster) ](https://github.com/lvbag)
+* [Landelijke voorziening BAG](https://github.com/lvbag)
 
 ### Data and statistics
 
 *Organisations in field of national data and statistics*
 
+* [Centraal Bureau voor de Statistiek (CBS) (English: National Statistics)](https://github.com/statistiekcbs)
 * [Dutch National Data portal (Data.overheid.nl)](https://github.com/dataoverheid)
-* [Central statistical office (CBS) ](https://github.com/statistiekcbs)
 
 ### Research Institutes
 
@@ -115,7 +115,7 @@ Dutch public sector.
 
 *Universities can have many suborganizations. We aim to be inclusive.*
 
-* Erasmus Universiteit Rotterdam
+* Erasmus University Rotterdam
     * [Erasmus University Library](https://github.com/erasmus-university-library)
     * [Rotterdam School of Management](https://github.com/eur-rsm)
 * TU Delft [(GitLab, self-hosted)](https://gitlab.tudelft.nl/explore)
@@ -139,8 +139,8 @@ Dutch public sector.
     * [Leiden University Library](https://github.com/LeidenUniversityLibrary)
     * [Leiden University Centre for Innovation](https://github.com/LU-C4i)
     * [Leiden Institute of Advanced Computer Science](https://git.liacs.nl/) (GitLab, self-hosted)
-* [Radboud Universiteit](https://github.com/radbouduniversity)
-    * [Radboud Universiteit (Open Science?)](https://github.com/Radboud-University)
+* [Radboud University](https://github.com/radbouduniversity)
+    * [Radboud University (Open Science?)](https://github.com/Radboud-University)
     * [Faculty of Science (GitLab, self-hosted)](https://gitlab.science.ru.nl/explore)
     * [Faculty of Social Sciences (GitLab self-hosted)](https://gitlab.socsci.ru.nl/explore)
     * [NLP Research group at Centre for Language Studies](https://github.com/LanguageMachines)
@@ -152,14 +152,14 @@ Dutch public sector.
 * [University of Twente](https://github.com/utwente)
     * [Formal Methods and Tools](https://github.com/utwente-fmt)
     * [RoboCup team of the University of Twente](https://github.com/RoboTeamTwente)
-* Universiteit Utrecht
+* Utrecht University
     * [Research IT](https://github.com/UtrechtUniversity)
     * [Webdiensten](https://github.com/UniversiteitUtrecht)
     * [Science Faculty (GitLab self-hosted)](https://git.science.uu.nl/explore)
 * Wageningen University & Research [(GitLab, self-hosted)](https://git.wageningenur.nl/explore)
     * [Geo-scripting](https://github.com/GeoScripting-WUR)
     * [Production Ecology & Resource Conservation](https://github.com/wageningen)
-* Vrij Universiteit Amsterdam
+* VU Amsterdam
     * [University Library 1](https://github.com/VUAmsterdam-UniversityLibrary)
     * [University Library 2](https://github.com/ubvu)
     * [Software and Sustainability Group](https://github.com/S2-group)
@@ -237,7 +237,12 @@ The project is initiated and maintained by [Jonathan
 de Bruin](https://github.com/J535D165), [Wouter van
 Bijsterveld](https://github.com/wbijster), and [Paul van
 Gent](https://github.com/paulvangentcom). The list of organizations
-is published under a CC-BY 4.0 license. 
+is published under a CC-BY 4.0 license. We decided to write this repository in 
+English because the content might be interesting for non-Dutch speaking 
+developers, governments, organizations. Some organizations are more recognizable
+in Dutch and therefore enlisted by their Dutch name. In general, this project lists
+administrative organizations in Dutch and research institutes and medical centers in English.
+If relevant, a translation can be added. 
 
 Inspired and technically based on [awesome-python](https://github.com/vinta/awesome-python) ([CC-BY 4.0 license](https://github.com/vinta/awesome-python/blob/master/LICENSE)).
 

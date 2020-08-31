@@ -10,7 +10,7 @@ Dutch public sector.
     + [Provinces](#provinces)
     + [Municipalities](#municipalities)
     + [Judiciary](#judiciary)
-    + [Emergency services](#emergency-services)
+    + [Emergency services and law enforcement](#emergency-services-and-law-enforcement)
     + [Transport, Land, and Water Management](#transport--land--and-water-management)
     + [Data and statistics](#data-and-statistics)
     + [Research Institutes](#research-institutes)
@@ -31,7 +31,7 @@ Dutch public sector.
 
 ### Ministries
 
-*High governmental organisation headed by a minister*
+*High governmental organisations in the Netherlands headed by a minister*
 
 * Ministerie van Algemene Zaken
     * [Dienst Publiek en Communicatie](https://github.com/azdpc)
@@ -45,12 +45,14 @@ Dutch public sector.
 
 ### Provinces
 
-*Administrative division within The Netherlands*
+*The ‘middle tier’ of public administration in the Netherlands*
 
 * [Groningen](https://github.com/ProvincieGroningen)
 * [Noord-Holland](https://github.com/provincieNH)
 
 ### Municipalities
+
+*The public administration of municipalities in the Netherlands*
 
 * [Amsterdam](https://github.com/Amsterdam)
 * [Delft](https://github.com/Gemeente-Delft)
@@ -62,13 +64,19 @@ Dutch public sector.
 
 ### Judiciary
 
+*The judiciary power in the Netherlands*
+
 * [Staten-Generaal](https://github.com/statengeneraal)
 
-### Emergency services
+### Emergency services and law enforcement
+
+*Emergency services and law enforcement in the Netherlands*
 
 * [Nationale Politie](https://github.com/politie)
 
 ### Transport, Land, and Water Management
+
+*Organisations in field of managing the public space*
 
 * Rijkswaterstaat
     * [Rijkswaterstaat 1](https://github.com/Rijkswaterstaat)
@@ -77,10 +85,14 @@ Dutch public sector.
 
 ### Data and statistics
 
+*Organisations in field of national data and statistics*
+
 * [Dutch National Data portal (Data.overheid.nl)](https://github.com/dataoverheid)
 * [Central statistical office (CBS) ](https://github.com/statistiekcbs)
 
 ### Research Institutes
+
+*Research institutes in the Netherlands*
 
 * [DANS-KNAW](https://github.com/DANS-KNAW)
 * [Huygens ING](https://github.com/HuygensING)
@@ -93,9 +105,15 @@ Dutch public sector.
 
 ### Libraries
 
+*Libraries in the Netherlands*
+
 * [National Library of the Netherlands (Koninklijke bibliotheek)](https://github.com/KBNLresearch)
 
 ### Universities
+
+*Universities in the Netherlands*
+
+*Universities can have many suborganizations. We aim to be inclusive.*
 
 * Erasmus Universiteit Rotterdam
     * [Erasmus University Library](https://github.com/erasmus-university-library)
@@ -150,7 +168,7 @@ Dutch public sector.
 
 ### University Medical Centers
 
-University medical centers are hospitals with a close relationship between the medical faculty and the hospital.
+*University medical centers are hospitals with a close relationship between the medical faculty and the hospital*
 
 * Erasmus Medical Center
     * [Bioinformatics](https://github.com/ErasmusMC-Bioinformatics)
@@ -173,6 +191,8 @@ University medical centers are hospitals with a close relationship between the m
 * [AMC](https://github.com/AmsterdamUMC)
 
 ### University of Applied Sciences
+
+*Universities of Applied Sciences (Dutch: hogescholen) in the Netherlands*
 
 * Haagse Hogeschool
     * [Technische Natuurkunde](https://github.com/HHS-TN)

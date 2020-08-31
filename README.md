@@ -4,6 +4,8 @@ Open source gains popularity in the public sector of the Netherlands. This is
 a list of profiles on open source platforms in use by organizations in the
 Dutch public sector.
 
+> Open source wint aan populariteit in de publieke sector van Nederland. Dit is een lijst met profielen op open source platforms die in gebruik zijn door organisaties in de Nederlandse publieke sector.
+
 - [Open source & Dutch public sector](#open-source---dutch-public-sector)
   * [Organisations](#organisations)
     + [Ministries](#ministries)

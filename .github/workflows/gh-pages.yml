@@ -17,7 +17,6 @@ jobs:
       - name: Build
         run: |
           sed 's/docs\/img\//img\//g' README.md > docs/index.md
-          cp README.md docs/index.md
           mkdocs build
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@3.5.9

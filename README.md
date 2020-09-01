@@ -157,6 +157,7 @@ Dutch public sector.
 * Utrecht University
     * [Research IT](https://github.com/UtrechtUniversity)
     * [Webdiensten](https://github.com/UniversiteitUtrecht)
+    * [Digital Humanities Lab](https://github.com/UUDigitalHumanitieslab)
     * [Science Faculty (GitLab self-hosted)](https://git.science.uu.nl/explore)
 * Wageningen University & Research [(GitLab, self-hosted)](https://git.wageningenur.nl/explore)
     * [Geo-scripting](https://github.com/GeoScripting-WUR)

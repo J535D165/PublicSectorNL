@@ -64,6 +64,10 @@ Dutch public sector.
 * [Utrecht](https://github.com/GemeenteUtrecht)
 * [Zaanstad](https://github.com/zaanstad)
 
+Partnerships between municipalities:
+
+* [Vereniging van Nederlandse Gemeenten (VNG) Realisatie](https://github.com/VNG-Realisatie)
+
 ### Judiciary
 
 *The judiciary power in the Netherlands*

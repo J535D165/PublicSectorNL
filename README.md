@@ -13,11 +13,11 @@ Dutch public sector.
     + [Municipalities](#municipalities)
     + [Judiciary](#judiciary)
     + [Emergency services and law enforcement](#emergency-services-and-law-enforcement)
-    + [Transport, Land, and Water Management](#transport--land--and-water-management)
+    + [Transport, Land, and Water Management](#transport-land-and-water-management)
     + [Data and statistics](#data-and-statistics)
     + [Research Institutes](#research-institutes)
     + [Libraries](#libraries)
-    + [Universities](#universitie)
+    + [Universities](#universities)
     + [University Medical Centers](#university-medical-centers)
     + [University of Applied Sciences](#university-of-applied-sciences)
   * [Contributing](#contributing)
@@ -126,6 +126,25 @@ Partnerships between municipalities:
 * Erasmus University Rotterdam
     * [Erasmus University Library](https://github.com/erasmus-university-library)
     * [Rotterdam School of Management](https://github.com/eur-rsm)
+* Groningen University
+    * [Center for Information Technology & Educational Support and Innovation](https://github.com/rijksuniversiteit-groningen)
+    * [Geodienst](https://github.com/geodienst)
+    * [High Performance Computing - Center for Information Technology](https://github.com/rug-cit-hpc)
+* Leiden University
+    * [Leiden University Library](https://github.com/LeidenUniversityLibrary)
+    * [Leiden University Centre for Innovation](https://github.com/LU-C4i)
+    * [Leiden Institute of Advanced Computer Science](https://git.liacs.nl/) (GitLab, self-hosted)
+* Maastricht University
+    * [Cognitive Computational Neuroscience](https://github.com/ccnmaastricht)
+    * [DataHub Maastricht](https://github.com/MaastrichtUniversity)
+    * [Institute of Data Science](https://github.com/MaastrichtU-IDS)
+    * [Maastricht Centre for Systems Biology](https://github.com/macsbio)
+    * [Maastricht Law & Tech Lab](https://github.com/maastrichtlawtech)
+* [Radboud University](https://github.com/radbouduniversity)
+    * [Radboud University (Open Science?)](https://github.com/Radboud-University)
+    * [Faculty of Science (GitLab, self-hosted)](https://gitlab.science.ru.nl/explore)
+    * [Faculty of Social Sciences (GitLab self-hosted)](https://gitlab.socsci.ru.nl/explore)
+    * [NLP Research group at Centre for Language Studies](https://github.com/LanguageMachines)
 * TU Delft [(GitLab, self-hosted)](https://gitlab.tudelft.nl/explore)
     * [3D geoinformation](https://github.com/tudelft3d)
     * [Micro Air Vehicle Laboratory](https://github.com/tudelft)
@@ -133,25 +152,6 @@ Partnerships between municipalities:
 * TU Eindhoven [(GitLab, self-hosted)](https://gitlab.tue.nl/explore)
     * [Robotics Group - RoboCup team](https://github.com/tue-robotics)
     * [Model Driven Software Engineering](https://github.com/tue-mdse)
-* Groningen University
-    * [Center for Information Technology & Educational Support and Innovation](https://github.com/rijksuniversiteit-groningen)
-    * [Geodienst](https://github.com/geodienst)
-    * [High Performance Computing - Center for Information Technology](https://github.com/rug-cit-hpc)
-* Maastricht University
-    * [Cognitive Computational Neuroscience](https://github.com/ccnmaastricht)
-    * [DataHub Maastricht](https://github.com/MaastrichtUniversity)
-    * [Institute of Data Science](https://github.com/MaastrichtU-IDS)
-    * [Maastricht Centre for Systems Biology](https://github.com/macsbio)
-    * [Maastricht Law & Tech Lab](https://github.com/maastrichtlawtech)
-* Leiden University
-    * [Leiden University Library](https://github.com/LeidenUniversityLibrary)
-    * [Leiden University Centre for Innovation](https://github.com/LU-C4i)
-    * [Leiden Institute of Advanced Computer Science](https://git.liacs.nl/) (GitLab, self-hosted)
-* [Radboud University](https://github.com/radbouduniversity)
-    * [Radboud University (Open Science?)](https://github.com/Radboud-University)
-    * [Faculty of Science (GitLab, self-hosted)](https://gitlab.science.ru.nl/explore)
-    * [Faculty of Social Sciences (GitLab self-hosted)](https://gitlab.socsci.ru.nl/explore)
-    * [NLP Research group at Centre for Language Studies](https://github.com/LanguageMachines)
 * University of Amsterdam
     * [Computer Vision](https://github.com/uvavision)
     * [Deep Learning](https://github.com/uvadlc)
@@ -165,39 +165,39 @@ Partnerships between municipalities:
     * [Webdiensten](https://github.com/UniversiteitUtrecht)
     * [Digital Humanities Lab](https://github.com/UUDigitalHumanitieslab)
     * [Science Faculty (GitLab self-hosted)](https://git.science.uu.nl/explore)
-* Wageningen University & Research [(GitLab, self-hosted)](https://git.wageningenur.nl/explore)
-    * [Geo-scripting](https://github.com/GeoScripting-WUR)
-    * [Production Ecology & Resource Conservation](https://github.com/wageningen)
 * VU Amsterdam
     * [University Library 1](https://github.com/VUAmsterdam-UniversityLibrary)
     * [University Library 2](https://github.com/ubvu)
     * [Software and Sustainability Group](https://github.com/S2-group)
     * [Instituut voor Milieuvraagstukken](https://github.com/VU-IVM)
+* Wageningen University & Research [(GitLab, self-hosted)](https://git.wageningenur.nl/explore)
+    * [Geo-scripting](https://github.com/GeoScripting-WUR)
+    * [Production Ecology & Resource Conservation](https://github.com/wageningen)
 
 
 ### University Medical Centers
 
 *University medical centers are hospitals with a close relationship between the medical faculty and the hospital*
 
+* [AMC](https://github.com/AmsterdamUMC)
 * Erasmus Medical Center
     * [Bioinformatics](https://github.com/ErasmusMC-Bioinformatics)
     * [Medical Informatics](https://github.com/mi-erasmusmc)
 * LUMC
     * [LUMC](https://github.com/LUMC)
     * [LUMC GitLab](https://git.lumc.nl/explore) (GitLab, self-hosted)
+* [Radboud UMC](https://github.com/Radboudumc)
+* UMC Groningen
+    * [Medical Imaging Center](https://github.com/mic-umcg)
 * UMC Utrecht
     * [Medical microbiology department](https://gitlab.com/mmb-umcu)
     * [Genetics](https://github.com/UMCUGenetics)
     * [Registration and Imaging of Brain Systems](https://github.com/UMCU-RIBS)
-* [Radboud UMC](https://github.com/Radboudumc)
-* UMC Groningen
-    * [Medical Imaging Center](https://github.com/mic-umcg)
 * VUMC
     * [IT](https://github.com/VUMC-IT)
     * [Tumor Genome Analysis Core](https://github.com/tgac-vumc)
     * [Vanderbilt Institute for Clinical and Translational Research](https://github.com/vanderbilt)
     * [Clinical Genetics/Pathology](https://github.com/VUmcCGP)
-* [AMC](https://github.com/AmsterdamUMC)
 
 ### University of Applied Sciences
 

@@ -66,7 +66,9 @@ Dutch public sector.
 
 Partnerships between municipalities:
 
-* [Vereniging van Nederlandse Gemeenten (VNG) Realisatie](https://github.com/VNG-Realisatie)
+* Vereniging van Nederlandse Gemeenten (VNG) Realisatie
+  * [VNG Realisatie (GitHub)](https://github.com/VNG-Realisatie)
+  * [VNG Realisatie (GitLab)](https://gitlab.com/vng-realisatie)
 
 ### Judiciary
 

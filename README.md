@@ -90,6 +90,9 @@ Partnerships between municipalities:
     * [Rijkswaterstaat 1](https://github.com/Rijkswaterstaat)
     * [Rijkswaterstaat 2](https://github.com/RWS-NL)
 * [Landelijke voorziening BAG](https://github.com/lvbag)
+* [Kadaster](https://github.com/kadaster)
+    * [Labs](https://github.com/kadaster-labs)
+    * [PDOK](https://github.com/pdok) (Publieke Diensten Op de Kaart)
 
 ### Data and statistics
 

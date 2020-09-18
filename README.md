@@ -167,6 +167,7 @@ Partnerships between municipalities:
     * [Research IT](https://github.com/UtrechtUniversity)
     * [Webdiensten](https://github.com/UniversiteitUtrecht)
     * [Digital Humanities Lab](https://github.com/UUDigitalHumanitieslab)
+    * [Institute for Marine and Atmospheric research Utrecht](https://github.com/UU-IMAU)
     * [Science Faculty (GitLab self-hosted)](https://git.science.uu.nl/explore)
 * VU Amsterdam
     * [University Library 1](https://github.com/VUAmsterdam-UniversityLibrary)

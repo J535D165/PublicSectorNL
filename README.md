@@ -112,6 +112,7 @@ Partnerships between municipalities:
 * [Netherlands eScience Center](https://github.com/NLeSC)
 * [Netherlands Institute of Ecology (NIOO-KNAW)](https://github.com/nioo-knaw)
 * [Rijksinstituut voor Volksgezondheid en Milieu (RIVM)](https://github.com/rivm-syso)
+* [Royal Netherlands Meteorological Institute (KNMI)](https://github.com/KNMI)
 * [TNO](https://github.com/TNO)
 
 ### Libraries

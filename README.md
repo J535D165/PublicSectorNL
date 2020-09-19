@@ -149,6 +149,7 @@ Partnerships between municipalities:
     * [Faculty of Science (GitLab, self-hosted)](https://gitlab.science.ru.nl/explore)
     * [Faculty of Social Sciences (GitLab self-hosted)](https://gitlab.socsci.ru.nl/explore)
     * [NLP Research group at Centre for Language Studies](https://github.com/LanguageMachines)
+    * [Donders Institute for Brain, Cognition and Behaviour](https://github.com/Donders-Institute)
 * TU Delft [(GitLab, self-hosted)](https://gitlab.tudelft.nl/explore)
     * [3D geoinformation](https://github.com/tudelft3d)
     * [Micro Air Vehicle Laboratory](https://github.com/tudelft)

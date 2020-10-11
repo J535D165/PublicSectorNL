@@ -108,6 +108,7 @@ Partnerships between municipalities:
 
 * [Centraal Bureau voor de Statistiek (CBS) (English: National Statistics)](https://github.com/statistiekcbs)
 * [Dutch National Data portal (Data.overheid.nl)](https://github.com/dataoverheid)
+* [Geonovum](https://github.com/Geonovum)
 
 ### Research Institutes
 

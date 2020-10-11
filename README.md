@@ -42,6 +42,7 @@ Dutch public sector.
     * [Dienst ICT Uitvoering](https://github.com/Dictu)
     * [GIS Competence Centre](https://github.com/MinELenI)
 * [Ministerie van Infrastructuur en Milieu](https://github.com/MinIenM)
+    * [Rijkswaterstaat 2](https://github.com/RWS-NL)
 * Ministerie van Justitie en Veiligheid
     * [Nationaal Cyber Security Centrum (NCSC)](https://github.com/NCSC-NL)
 * [Ministerie van Volksgezondheid, Welzijn en Sport](https://github.com/minvws)
@@ -88,12 +89,9 @@ Partnerships between municipalities:
 
 *Organisations in field of managing the public space*
 
-* Rijkswaterstaat
-    * [Rijkswaterstaat 1](https://github.com/Rijkswaterstaat)
-    * [Rijkswaterstaat 2](https://github.com/RWS-NL)
-* [Landelijke voorziening BAG](https://github.com/lvbag)
 * [Kadaster](https://github.com/kadaster)
     * [Labs](https://github.com/kadaster-labs)
+    * [Landelijke voorziening BAG](https://github.com/lvbag)
     * [PDOK](https://github.com/pdok) (Publieke Diensten Op de Kaart)
 
 ### Data and statistics

@@ -58,13 +58,14 @@ Dutch public sector.
 
 *The public administration of municipalities in the Netherlands*
 
-* [Amsterdam](https://github.com/Amsterdam)
-* [Delft](https://github.com/Gemeente-Delft)
-* [Haarlem](https://github.com/Haarlem)
-* [Nijmegen](https://github.com/GemeenteNijmegen)
-* [s-Hertogenbosch](https://github.com/gemeenteshertogenbosch)
-* [Utrecht](https://github.com/GemeenteUtrecht)
-* [Zaanstad](https://github.com/zaanstad)
+* [Gemeente Amsterdam](https://github.com/Amsterdam)
+* [Gemeente Delft](https://github.com/Gemeente-Delft)
+* [Gemeente Haarlem](https://github.com/Haarlem)
+* [Gemeente 's-Hertogenbosch](https://github.com/gemeenteshertogenbosch)
+* [Gemeente Nijmegen](https://github.com/GemeenteNijmegen)
+* [Gemeente Súdwest-Fryslân](https://github.com/Sudwest-Fryslan)
+* [Gemeente Utrecht](https://github.com/GemeenteUtrecht)
+* [Gemeente Zaanstad](https://github.com/zaanstad)
 
 Partnerships between municipalities:
 

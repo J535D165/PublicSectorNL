@@ -38,8 +38,10 @@ Dutch public sector.
 * Ministerie van Algemene Zaken
     * [Dienst Publiek en Communicatie](https://github.com/azdpc)
 * [Ministerie van Binnenlandse Zaken en Koninkrijksrelaties](https://github.com/MinBZK)
+    * [Logius](https://github.com/LogiusNL)
+    * [Logius Standaarden](https://github.com/Logius-standaarden)
 * Ministerie van Economische Zaken
-    * [Dienst ICT Uitvoering](https://github.com/Dictu)
+    * [Dienst ICT Uitvoering (DICTU)](https://github.com/Dictu)
     * [GIS Competence Centre](https://github.com/MinELenI)
 * [Ministerie van Infrastructuur en Milieu](https://github.com/MinIenM)
 * Ministerie van Justitie en Veiligheid
@@ -47,6 +49,8 @@ Dutch public sector.
 * Ministerie van Sociale Zaken en Werkgelegenheid
     * Sociale Verzekeringsbank (SVB)
         * [Novum](https://gitlab.com/NovumGit)
+* Ministerie van Onderwijs, Cultuur en Wetenschap
+    * [Rijksdienst voor het Cultureel Erfgoed](https://github.com/cultureelerfgoed)
 * [Ministerie van Volksgezondheid, Welzijn en Sport](https://github.com/minvws)
 
 
@@ -54,26 +58,29 @@ Dutch public sector.
 
 *The ‘middle tier’ of public administration in the Netherlands*
 
-* [Groningen](https://github.com/ProvincieGroningen)
-* [Noord-Holland](https://github.com/provincieNH)
+* [Provincie Groningen](https://github.com/ProvincieGroningen)
+* [Provincie Noord-Holland](https://github.com/provincieNH)
+* [Provincie Zuid-Holland](https://github.com/ProvZH)
 
 ### Municipalities
 
 *The public administration of municipalities in the Netherlands*
 
-* [Amsterdam](https://github.com/Amsterdam)
-* [Delft](https://github.com/Gemeente-Delft)
-* [Haarlem](https://github.com/Haarlem)
-* [Nijmegen](https://github.com/GemeenteNijmegen)
-* [s-Hertogenbosch](https://github.com/gemeenteshertogenbosch)
-* [Utrecht](https://github.com/GemeenteUtrecht)
-* [Zaanstad](https://github.com/zaanstad)
+* [Gemeente Amsterdam](https://github.com/Amsterdam)
+* [Gemeente Delft](https://github.com/Gemeente-Delft)
+* [Gemeente Haarlem](https://github.com/Haarlem)
+* [Gemeente 's-Hertogenbosch](https://github.com/gemeenteshertogenbosch)
+* [Gemeente Nijmegen](https://github.com/GemeenteNijmegen)
+* [Gemeente Súdwest-Fryslân](https://github.com/Sudwest-Fryslan)
+* [Gemeente Utrecht](https://github.com/GemeenteUtrecht)
+* [Gemeente Zaanstad](https://github.com/zaanstad)
 
 Partnerships between municipalities:
 
 * Vereniging van Nederlandse Gemeenten (VNG) Realisatie
-  * [VNG Realisatie (GitHub)](https://github.com/VNG-Realisatie)
-  * [VNG Realisatie (GitLab)](https://gitlab.com/vng-realisatie)
+    * [VNG Realisatie (GitHub)](https://github.com/VNG-Realisatie)
+    * [VNG Realisatie (GitLab)](https://gitlab.com/vng-realisatie)
+    * [Common Ground](https://gitlab.com/commonground)
 
 ### Judiciary
 
@@ -105,6 +112,7 @@ Partnerships between municipalities:
 
 * [Centraal Bureau voor de Statistiek (CBS) (English: National Statistics)](https://github.com/statistiekcbs)
 * [Dutch National Data portal (Data.overheid.nl)](https://github.com/dataoverheid)
+* [Geonovum](https://github.com/Geonovum)
 
 ### Research Institutes
 

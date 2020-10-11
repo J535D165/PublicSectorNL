@@ -55,8 +55,9 @@ Dutch public sector.
 
 *The ‘middle tier’ of public administration in the Netherlands*
 
-* [Groningen](https://github.com/ProvincieGroningen)
-* [Noord-Holland](https://github.com/provincieNH)
+* [Provincie Groningen](https://github.com/ProvincieGroningen)
+* [Provincie Noord-Holland](https://github.com/provincieNH)
+* [Provincie Zuid-Holland](https://github.com/ProvZH)
 
 ### Municipalities
 

@@ -38,12 +38,16 @@ Dutch public sector.
 * Ministerie van Algemene Zaken
     * [Dienst Publiek en Communicatie](https://github.com/azdpc)
 * [Ministerie van Binnenlandse Zaken en Koninkrijksrelaties](https://github.com/MinBZK)
+    * [Logius](https://github.com/LogiusNL)
+    * [Logius Standaarden](https://github.com/Logius-standaarden)
 * Ministerie van Economische Zaken
-    * [Dienst ICT Uitvoering](https://github.com/Dictu)
+    * [Dienst ICT Uitvoering (DICTU)](https://github.com/Dictu)
     * [GIS Competence Centre](https://github.com/MinELenI)
 * [Ministerie van Infrastructuur en Milieu](https://github.com/MinIenM)
 * Ministerie van Justitie en Veiligheid
     * [Nationaal Cyber Security Centrum (NCSC)](https://github.com/NCSC-NL)
+* Ministerie van Onderwijs, Cultuur en Wetenschap
+    * [Rijksdienst voor het Cultureel Erfgoed](https://github.com/cultureelerfgoed)
 * [Ministerie van Volksgezondheid, Welzijn en Sport](https://github.com/minvws)
 
 

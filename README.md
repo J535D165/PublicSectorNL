@@ -46,6 +46,9 @@ Dutch public sector.
 * [Ministerie van Infrastructuur en Milieu](https://github.com/MinIenM)
 * Ministerie van Justitie en Veiligheid
     * [Nationaal Cyber Security Centrum (NCSC)](https://github.com/NCSC-NL)
+* Ministerie van Sociale Zaken en Werkgelegenheid
+    * Sociale Verzekeringsbank (SVB)
+        * [Novum](https://gitlab.com/NovumGit)
 * Ministerie van Onderwijs, Cultuur en Wetenschap
     * [Rijksdienst voor het Cultureel Erfgoed](https://github.com/cultureelerfgoed)
 * [Ministerie van Volksgezondheid, Welzijn en Sport](https://github.com/minvws)

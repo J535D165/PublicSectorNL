@@ -123,6 +123,7 @@ Partnerships between municipalities:
 * [KNAW Digital Humanities Lab](https://github.com/dhlab-nl)
 * [KNAW Humanities Cluster](https://github.com/knaw-huc)
 * [Netherlands eScience Center](https://github.com/NLeSC)
+* [Netherlands Institute for Space Research (SRON)](https://gitlab.sron.nl/explore)
 * [Netherlands Institute of Ecology (NIOO-KNAW)](https://github.com/nioo-knaw)
 * [Rijksinstituut voor Volksgezondheid en Milieu (RIVM)](https://github.com/rivm-syso)
 * [Royal Netherlands Meteorological Institute (KNMI)](https://github.com/KNMI)

@@ -15,6 +15,7 @@ Dutch public sector.
     + [Emergency services and law enforcement](#emergency-services-and-law-enforcement)
     + [Transport, Land, and Water Management](#transport-land-and-water-management)
     + [Data and statistics](#data-and-statistics)
+    + [Financial](#financial)
     + [Research Institutes](#research-institutes)
     + [Libraries](#libraries)
     + [Universities](#universities)
@@ -114,6 +115,12 @@ Partnerships between municipalities:
 * [Dutch National Data portal (Data.overheid.nl)](https://github.com/dataoverheid)
 * [Geonovum](https://github.com/Geonovum)
 
+### Financial
+
+*Organizations related to finance*
+
+* [De Nederlandsche Bank (DNB)](https://github.com/DeNederlandscheBank)
+
 ### Research Institutes
 
 *Research institutes in the Netherlands*
@@ -125,7 +132,10 @@ Partnerships between municipalities:
 * Netherlands Cancer Institute (NKI)
     * [Computational Cancer Biology group (CCB)](https://github.com/nki-ccb)
     * [Genomics Core Facility](https://github.com/nki-gcf)
+* National Institute for Subatomic Physics (Nikhef)
+    * [Nikhef Data Processing Facility](https://github.com/NDPF)
 * [Netherlands eScience Center](https://github.com/NLeSC)
+* [Netherlands Institute for Space Research (SRON)](https://gitlab.sron.nl/explore)
 * [Netherlands Institute of Ecology (NIOO-KNAW)](https://github.com/nioo-knaw)
 * [Rijksinstituut voor Volksgezondheid en Milieu (RIVM)](https://github.com/rivm-syso)
 * [Royal Netherlands Meteorological Institute (KNMI)](https://github.com/KNMI)

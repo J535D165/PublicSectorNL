@@ -122,6 +122,8 @@ Partnerships between municipalities:
 * [Huygens ING](https://github.com/HuygensING)
 * [KNAW Digital Humanities Lab](https://github.com/dhlab-nl)
 * [KNAW Humanities Cluster](https://github.com/knaw-huc)
+* National Institute for Subatomic Physics (Nikhef)
+    * [Nikhef Data Processing Facility](https://github.com/NDPF)
 * [Netherlands eScience Center](https://github.com/NLeSC)
 * [Netherlands Institute for Space Research (SRON)](https://gitlab.sron.nl/explore)
 * [Netherlands Institute of Ecology (NIOO-KNAW)](https://github.com/nioo-knaw)

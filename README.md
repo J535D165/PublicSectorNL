@@ -277,8 +277,9 @@ sector easily findable. Findability is the key to reuse and collaboration.
 
 The project is initiated and maintained by [Jonathan
 de Bruin](https://github.com/J535D165), [Wouter van
-Bijsterveld](https://github.com/wbijster), and [Paul van
-Gent](https://github.com/paulvangentcom). The list of organizations
+Bijsterveld](https://github.com/wbijster), and [Paul van Gent](https://github.com/paulvangentcom).
+Special thanks to [Sietse Snel](https://github.com/stsnel) for contributing a large 
+number of organizations to this list. The list of organizations
 is published under a CC-BY 4.0 license. We decided to write this repository in 
 English because the content might be interesting for non-Dutch speaking 
 developers, governments, organizations. Some organizations are more recognizable

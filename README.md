@@ -129,6 +129,7 @@ Partnerships between municipalities:
 * [Huygens ING](https://github.com/HuygensING)
 * [KNAW Digital Humanities Lab](https://github.com/dhlab-nl)
 * [KNAW Humanities Cluster](https://github.com/knaw-huc)
+* [Meertens Institute](https://github.com/meertensinstituut)
 * Netherlands Cancer Institute (NKI)
     * [Computational Cancer Biology group (CCB)](https://github.com/nki-ccb)
     * [Genomics Core Facility](https://github.com/nki-gcf)

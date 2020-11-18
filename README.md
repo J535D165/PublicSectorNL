@@ -136,6 +136,7 @@ Partnerships between municipalities:
 * National Institute for Subatomic Physics (Nikhef)
     * [Nikhef Data Processing Facility](https://github.com/NDPF)
 * [Netherlands eScience Center](https://github.com/NLeSC)
+* [Netherlands Institute for Neuroscience (NIN)](https://github.com/Herseninstituut)
 * [Netherlands Institute for Space Research (SRON)](https://gitlab.sron.nl/explore)
 * [Netherlands Institute of Ecology (NIOO-KNAW)](https://github.com/nioo-knaw)
 * [Rijksinstituut voor Volksgezondheid en Milieu (RIVM)](https://github.com/rivm-syso)
